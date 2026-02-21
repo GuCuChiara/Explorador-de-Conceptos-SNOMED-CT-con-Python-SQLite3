@@ -65,6 +65,11 @@
     └── sct2_Relationship_Snapshot_ArgentinaEdition_20251120.txt
 
 ```
+---
+## Se reliza un primer Build, luego se puede actualizar la BD:
+
+![EHL3s9XWoAM-ifA](https://github.com/user-attachments/assets/cb5c3ca7-5a55-4b57-bf29-dc22c01eb9ec)
+
 
 ---
 
@@ -149,7 +154,6 @@ pip install streamlit pandas openpyxl
 ```
 streamlit run Buscador_SNOMED-CT_Sqlite3.py
 ```
-
 ---
 
 
