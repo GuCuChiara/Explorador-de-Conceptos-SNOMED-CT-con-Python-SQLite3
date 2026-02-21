@@ -137,7 +137,7 @@ pip install streamlit pandas openpyxl
 ```
 ### 4️⃣ Ejecutar
 ```
-streamlit run Buscador_SNOMED-CT_5_Sqlite3.py
+streamlit run Buscador_SNOMED-CT_Sqlite3.py
 ```
 
 ---
