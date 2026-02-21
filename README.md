@@ -83,11 +83,16 @@
 ## ⬆️ Exploración de Jerarquías:
 * Ancestros (Is-A)
 ---
-<img width="1068" height="602" alt="image" src="https://github.com/user-attachments/assets/cf8a4f6b-3e79-4193-9e21-5ae68f4a2101" />
+<img width="951" height="557" alt="image" src="https://github.com/user-attachments/assets/5744704e-c62f-4d99-b01d-8df414b3815a" />
+
 
 ---
 
 * Descendientes (inversa de Is-A)
+
+---
+<img width="393" height="132" alt="image" src="https://github.com/user-attachments/assets/6bd89631-261c-4c99-9b5c-d000a1506d45" />
+
 ---
 <img width="1589" height="508" alt="image" src="https://github.com/user-attachments/assets/b84d3c1c-68a2-4bcf-b0ce-1fa7a8c9452b" />
 
@@ -105,8 +110,13 @@
     * Concepto raíz
     * Descendientes seleccionados
     * Atributos detallados
+
 ---
-<img width="1597" height="855" alt="image" src="https://github.com/user-attachments/assets/74d29a00-751f-49d3-bd53-f601218c6e36" />
+<img width="383" height="118" alt="image" src="https://github.com/user-attachments/assets/26ed8ad0-eacc-4c76-9146-b1b1ce033a3f" />
+
+---
+<img width="971" height="423" alt="image" src="https://github.com/user-attachments/assets/d971ab36-8620-46df-9950-79d233c15ab2" />
+
 
 ---
 
